@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.crypto-data-container {
+  border: 3px solid #00e7ff;
+  border-radius: 8px;
+  width: 80%;
+  color: white;
+}
+.crypto-table-heading-row {
+  padding: 10px;
+  background-color: #092e33;
+  display: flex;
+  align-items: center;
+}
+.coin-type {
+  margin-left: 30px;
+  width: 70%;
+  font-size: 22px;
+}
+.coin-type-usd {
+  margin-right: 30px;
+  width: 15%;
+  font-size: 22px;
+}
+.coin-type-euro {
+  margin-right: 30px;
+  width: 15%;
+  font-size: 22px;
+}
+.list-container {
+  padding: 0;
+  margin: 0;
+  background-color: transparent;
+}
